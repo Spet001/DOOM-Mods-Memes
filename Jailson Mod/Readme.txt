@@ -1,1 +1,0 @@
-Delicia MOD é um Mod de DOOMII sobre o pai de familia. Fim

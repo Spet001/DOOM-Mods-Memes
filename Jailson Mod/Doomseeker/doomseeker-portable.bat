@@ -1,1 +1,0 @@
-start .\doomseeker.exe --portable %*
